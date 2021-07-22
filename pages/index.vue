@@ -6,6 +6,7 @@
         <VuetifyLogo />
       </v-card>
       <v-card>
+        <h1 class="d-flex justify-center">Hello SalmonKun</h1>
         <v-card-title class="headline">
           Welcome to the Vuetify + Nuxt.js template
         </v-card-title>
